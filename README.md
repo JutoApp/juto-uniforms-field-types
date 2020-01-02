@@ -1,5 +1,7 @@
 # Extra field types for React-Uniforms
 
+Mobile-friendly component types for use with [uniforms](https://uniforms.tools), for Bootstrap 3 and 4, to provide better UX for booleans, dates and numbers.
+
 See demo: [demo](https://jutoapp.github.io/juto-uniforms-field-types/example/dist/index.html)
 
 These are additional field types for use with [uniforms](https://uniforms.tools), for Bootstrap 3 and 4.
