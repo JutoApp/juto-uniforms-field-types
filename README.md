@@ -12,9 +12,20 @@ Note: BetterCheckbox relies on Bootstrap (3 or 4) and FontAwesome
 
 * BetterCheckbox for checkboxes
 * FlatPickr for dates
+    
+    <img width="344" alt="image" src="https://user-images.githubusercontent.com/1751645/71654136-fd704c80-2d6a-11ea-8a4a-305bb47c2946.png">
+
 * FlatPickr for times
+
+    <img width="340" alt="image" src="https://user-images.githubusercontent.com/1751645/71654145-0cef9580-2d6b-11ea-94d6-d04ad268ff69.png">
+
 * FlatPickr for date-times
+
+    <img width="320" alt="image" src="https://user-images.githubusercontent.com/1751645/71654148-17119400-2d6b-11ea-9527-f045b03f75b2.png">
+
 * RangeSlider for numeric inputs
+
+    ![image](https://user-images.githubusercontent.com/1751645/71654190-5809a880-2d6b-11ea-844c-5cf1cc1e00cb.png)
 
 ## Example Usage
 
