@@ -1,0 +1,30 @@
+{
+  "name": "example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "moment": "^2.24.0",
+    "react-app-polyfill": "^1.0.0",
+    "simpl-schema": "^1.5.6",
+    "uniforms": "2.6.2",
+    "uniforms-bootstrap3": "2.6.2",
+    "uniforms-bridge-simple-schema-2": "2.6.2"
+  },
+  "alias": {
+    "react": "../node_modules/react",
+    "react-dom": "../node_modules/react-dom/profiling",
+    "scheduler/tracing": "../node_modules/scheduler/tracing-profiling"
+  },
+  "devDependencies": {
+    "@types/react": "^16.9.11",
+    "@types/react-dom": "^16.8.4",
+    "parcel": "^1.12.3",
+    "react-rangeslider": "^2.2.0",
+    "typescript": "^3.4.5"
+  }
+}
