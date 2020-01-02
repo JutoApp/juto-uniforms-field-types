@@ -1,6 +1,6 @@
 # Extra field types for React-Uniforms
 
-See demo: [https://jutoapp.github.io/juto-uniforms-field-types/example/dist/index.html]()
+See demo: [demo](https://jutoapp.github.io/juto-uniforms-field-types/example/dist/index.html)
 
 These are additional field types for use with [uniforms](https://uniforms.tools), for Bootstrap 3 and 4.
 
