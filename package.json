@@ -4,7 +4,8 @@
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "files": [
-    "dist"
+    "dist",
+    "awesome-checkbox-fontawesome-5-fix.css"
   ],
   "scripts": {
     "start": "tsdx watch",
@@ -49,7 +50,6 @@
   },
   "dependencies": {
     "@types/classnames": "^2.2.9",
-    "@types/flatpickr": "^3.1.2",
     "@types/react-rangeslider": "^2.2.1",
     "awesome-bootstrap-checkbox": "0.3.7",
     "classnames": "^2.2.6",

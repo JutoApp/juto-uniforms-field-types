@@ -1,7 +1,7 @@
 import 'react-app-polyfill/ie11';
 import React, { Component } from 'react';
 import * as ReactDOM from 'react-dom';
-import { BetterCheckbox, FlatPickrField, RangeSlider } from '../.';
+import { BetterCheckbox, FlatPickrField, RangeSlider } from 'juto-uniforms-field-types';
 import SimpleSchema from 'simpl-schema';
 import SimpleSchema2Bridge from 'uniforms-bridge-simple-schema-2';
 import { AutoForm } from 'uniforms-bootstrap3';
@@ -10,7 +10,8 @@ import moment from 'moment';
 // To include the default styles
 import 'react-rangeslider/lib/index.css'
 import 'awesome-bootstrap-checkbox/awesome-bootstrap-checkbox.css';
-import './awesome-checkbox-fontawesome-5-fix.css';
+import 'juto-uniforms-field-types/awesome-checkbox-fontawesome-5-fix.css';
+import 'flatpickr/dist/themes/light.css';
 
 const ss = new SimpleSchema({
 
