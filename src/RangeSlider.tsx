@@ -3,8 +3,6 @@ import { Component } from 'react';
 
 // import classnames from 'classnames';
 import Slider from 'react-rangeslider';
-// To include the default styles
-import 'react-rangeslider/lib/index.css';
 
 import { connectField } from 'uniforms';
 import { wrapField } from 'uniforms-bootstrap3';
