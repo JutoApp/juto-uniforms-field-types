@@ -1,9 +1,0 @@
-.abc-checkbox input[type="checkbox"]:checked+label::after,
-.abc-checkbox input[type="radio"]:checked+label::after {
-    font-family: "Font Awesome 5 Pro", "Font Awesome 5 Free";
-    content: "\f00c";
-    font-weight: 900;
-}
-
-
-/*# sourceMappingURL=/awesome-checkbox-fontawesome-5-fix.bc4285a7.css.map */

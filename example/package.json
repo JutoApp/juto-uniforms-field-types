@@ -1,11 +1,10 @@
 {
   "name": "example",
   "version": "1.0.0",
-  "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "start": "parcel index.html",
-    "build": "parcel build index.html"
+    "start": "parcel --public-url . index.html",
+    "build": "parcel build index.html --public-url ."
   },
   "dependencies": {
     "juto-uniforms-field-types": "^1.0.0",
@@ -28,5 +27,12 @@
     "@types/react-dom": "^16.8.4",
     "parcel": "^1.12.3",
     "typescript": "^3.4.5"
+  },
+  "source": "index.html",
+  "targets": {
+    "default": {
+      "distDir": "dist",
+      "publicUrl": "."
+    }
   }
 }
